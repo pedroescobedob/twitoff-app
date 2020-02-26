@@ -11,6 +11,10 @@ flask = "*"
 flask-sqlalchemy = "*"
 sqlalchemy = "*"
 sqlite3 = "*"
+psycopg2 = "*"
+flask-migrate = "*"
+request = "*"
+jsonify = "*"
 
 [requires]
 python_version = "3.7"
